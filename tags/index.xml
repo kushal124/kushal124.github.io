@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kushal Khandelwal</title>
-    <link>http://kushalkhandelwal.com/</link>
+    <link>http://kushalkhandelwal.com/tags/</link>
     <description>Recent content on Kushal Khandelwal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Apr 2017 22:31:08 +0530</lastBuildDate>
-    <atom:link href="http://kushalkhandelwal.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kushalkhandelwal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kushal Khandelwal</title>
-    <link>http://kushalkhandelwal.com/</link>
-    <description>Recent content on Kushal Khandelwal</description>
+    <title>Blogs on Kushal Khandelwal</title>
+    <link>http://kushalkhandelwal.com/blog/</link>
+    <description>Recent content in Blogs on Kushal Khandelwal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Apr 2017 22:31:08 +0530</lastBuildDate>
-    <atom:link href="http://kushalkhandelwal.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kushalkhandelwal.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>
