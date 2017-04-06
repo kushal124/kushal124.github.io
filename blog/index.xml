@@ -10,14 +10,19 @@
     <atom:link href="http://kushalkhandelwal.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello world</title>
+      <title>Hello World</title>
       <link>http://kushalkhandelwal.com/blog/hello-world/</link>
       <pubDate>Sun, 02 Apr 2017 22:31:08 +0530</pubDate>
       
       <guid>http://kushalkhandelwal.com/blog/hello-world/</guid>
       <description>
 
-&lt;h4 id=&#34;hello-hola&#34;&gt;Hello!! Hola !!&lt;/h4&gt;
+&lt;h4 id=&#34;hello-world&#34;&gt;Hello World !&lt;/h4&gt;
+
+&lt;p&gt;Hello ! Welcome to my new blog. I had been thinking this for a long time to swtich my blog to Hugo. Hugo is a static website generator written in GoLang.
+For this blog and my personal homepage I decided to write a custom theme.&lt;/p&gt;
+
+&lt;p&gt;I would be blogging about a lot of things, mostly focussing on Machine Learning, Python, Flask, Marathon Running.&lt;/p&gt;
 </description>
     </item>
     
